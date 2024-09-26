@@ -131,7 +131,6 @@ const App: React.FC = () => {
 
                 {/* My Courses section (showing courses the user is subscribed to) */}
                 <section className="myCoursesContainer">
-                    <h3>My Courses</h3>
                     {subscribedCourses.length > 0 ? (
                         <MyCourses courses={subscribedCourses} onUnsubscribe={handleUnsubscribe} /> // List of subscribed courses
                     ) : (
