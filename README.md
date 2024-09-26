@@ -62,14 +62,14 @@ You will see a list of courses fetched from the ServiceNow database.
 Your username will be displayed at the top, fetched from the ServiceNow user table.
 You can subscribe to a course by either:
 Clicking the "Subscribe" button.
-
 Dragging the course card into the subscription basket.
-The courses you select will appear in the subscription basket, but data won't be persisted back to ServiceNow at this point.
+The courses you select will appear in the subscription basket, and message succefully subscribed.
 
 Notes
 
 The backend has been implemented using Node.js and Express to handle CORS issues during development. This allows for smoother communication between the frontend and the ServiceNow API.
-There is an issue with persisting subscriptions back to the ServiceNow database, which results in an error when attempting to confirm the course subscription. This feature is still under development.
+
+
 Future Improvements
 
 Implement full integration with the ServiceNow API for saving course subscriptions.
@@ -78,14 +78,6 @@ Add unit and integration tests for both the frontend and backend.
 Contributing
 
 If you'd like to contribute, feel free to fork the repository and submit pull requests. Contributions are always welcome!
-
-
-
-
-
-
-
-
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -134,4 +126,10 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
-```
+```<img width="1440" alt="Screenshot 2024-09-26 at 14 36 39" src="https://github.com/user-attachments/assets/d3f6ed6d-29e9-47cb-8e1e-741d32ab87f7">
+<img width="14<img width="554" alt="Screenshot 2024-09-26 at 14 24 21" src="https://github.com/user-attachments/assets/c060c1ed-031e-4f58-8ff0-71be3a8d08c3">
+40" alt="Screenshot 2024-09-26 at 14 36 57" src="https://github.com/user-attachments/assets/6ac99548-8c02-46eb-922f-fea81b7f5c38">
+![Uploading Screenshot 2024-09-26 at 14.24.21.png…]()
+
+
+
