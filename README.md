@@ -126,10 +126,15 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
-```<img width="1440" alt="Screenshot 2024-09-26 at 14 36 39" src="https://github.com/user-attachments/assets/d3f6ed6d-29e9-47cb-8e1e-741d32ab87f7">
-<img width="14<img width="554" alt="Screenshot 2024-09-26 at 14 24 21" src="https://github.com/user-attachments/assets/c060c1ed-031e-4f58-8ff0-71be3a8d08c3">
-40" alt="Screenshot 2024-09-26 at 14 36 57" src="https://github.com/user-attachments/assets/6ac99548-8c02-46eb-922f-fea81b7f5c38">
-![Uploading Screenshot 2024-09-26 at 14.24.21.png…]()
+```
 
+
+
+<img width="554" alt="Screenshot 2024-09-26 at 14 24 21" src="https://github.com/user-attachments/assets/3a03ece5-e7cb-4522-8ae6-c9381d0f3832">
+
+<img width="1440" alt="Screenshot 2024-09-26 at 14 36 39" src="https://github.com/user-attachments/assets/a39985c3-ed6a-47b5-850d-87309d09b759">
+
+
+<img width="1440" alt="Screenshot 2024-09-26 at 14 36 57" src="https://github.com/user-attachments/assets/9c68ff5e-e40d-4b9d-a96a-dad57a1897c3">
 
 
