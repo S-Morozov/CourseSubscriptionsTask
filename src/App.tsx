@@ -112,7 +112,9 @@ const App: React.FC = () => {
             </header>
             <main>
                 <section className='coursesListContainer'>
-                    <h3>Our Best Courses</h3>
+                    <div className='titleCard'>
+                        <h3>Our Best Courses</h3>
+                    </div>
                     <div className='coursesList'>
                         <CourseList onSubscribe={handleSubscribe} onDragStart={handleDragStart} /> {/* List of available courses */}
                     </div>
