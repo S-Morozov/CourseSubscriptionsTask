@@ -47,7 +47,7 @@ yarn dev
 This will start the Vite development server on the default port (usually http://localhost:5173).
 Running the Backend (Node.js with Express): Navigate to the src/server.js directory and run the following command in a separate terminal:
 
-node src/server.js
+node server.js
 
 This will start the backend server on a separate port to handle ServiceNow API requests and to avoid CORS errors.
 Simultaneous Execution: The application requires both frontend and backend servers to be running concurrently:
